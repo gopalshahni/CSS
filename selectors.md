@@ -76,7 +76,6 @@
 ```css 
     p::first-letter { font-size:30px}
 ```
-
 ## Group Selectors 
 - name define its meaning own
 - example
